@@ -1,6 +1,6 @@
 # Connected-Component Labeling
 
-Two different classical algorithms, which is Recursive Connected Component Labeling and Two Pass Connected Component Labeling implemented with the help of NumPy to find and label connected components(pixel neighbors with the same value) in image files. While finding neigbors we have different direction options possible, which is only by cardinal directions(neighbor_size=4) or using both cardinal and ordinal directions(neighbor_size=8). Difference between them will be distinguishable in test images.
+Two different classical algorithms, which are Recursive Connected Component Labeling and Two Pass Connected Component Labeling implemented with the help of NumPy to find and label connected components(pixel neighbors with the same value) in image files. While finding neigbors we have different direction options possible, which is only by cardinal directions(neighbor_size=4) or using both cardinal and ordinal directions(neighbor_size=8). Difference between them will be distinguishable in test images.
 
 <br>
 <br>
